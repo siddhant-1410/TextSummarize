@@ -30,7 +30,7 @@ Further integrated it with streamlit. Install the requirements.txt file and run 
 
 ## Install Requirement.txt
 
-To deploy this project run
+To install requirements run
 
 ```bash
   pip install -r requirements.txt
@@ -38,7 +38,7 @@ To deploy this project run
 
 ## Run the stream-lit application
 
-To deploy this project run
+To run
 
 ```bash
   streamlit run newapp.py
