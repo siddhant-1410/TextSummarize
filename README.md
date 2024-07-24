@@ -1,7 +1,6 @@
 
-# Text Summarization
-
-Summarises a given piece of text upto 50% using extractive based summarization techinque. Demo Video and website link with sample text is given below.
+## Text Summarization
+Live Link - https://textsummaryem.streamlit.app/ . Sample Text is below the demo video.  OR directly check the DEMO VIDEO.
 
 
 ## Demo Video
@@ -10,9 +9,7 @@ https://github.com/user-attachments/assets/6ce58a04-e7a9-4936-9784-6a4e4ac23b63
 
 
 
-## Website Link
 
-https://textsummaryem.streamlit.app/
 
 Sample text is below. Click to copy.
 
