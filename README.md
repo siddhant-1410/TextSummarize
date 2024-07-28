@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/6ce58a04-e7a9-4936-9784-6a4e4ac23b63
 
 
 
-Sample text is below. Click to copy.
+Sample text is given below.
 
 ```bash
   Mahendra Singh Dhoni, commonly known as MS Dhoni, is one of the most iconic figures in the world of cricket. Born on July 7, 1981, in Ranchi, Jharkhand, Dhoni’s journey from a small-town boy to a cricketing legend is both inspiring and remarkable. His rise to fame and his contributions to Indian cricket have left an indelible mark on the sport.
